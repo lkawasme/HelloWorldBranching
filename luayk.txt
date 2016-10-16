@@ -2,3 +2,4 @@
 10/15 9:08 local mac
 10/15 9:17 testing local branch
 10/15 9:20 adding line on branch lu1
+10/15 9:34 adding line on branch lu2
